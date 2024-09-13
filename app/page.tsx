@@ -143,7 +143,7 @@ const page = () => {
               </Link>
             </>
           )}
-          <Link className={cn(buttonVariants({ variant: "outline", size: "lg" }), "duration-300 transition-all")} href="https://github.com/Elias-sara/Health-LMs.git>
+          <Link className={cn(buttonVariants({ variant: "outline", size: "lg" }), "duration-300 transition-all")} href="https://github.com/Elias-sara/Health-LMs.git">
             Github
           </Link>
         </div>
